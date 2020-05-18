@@ -67,7 +67,7 @@ session_start();
             <form action="update.php" method="POST">
                 <div class="input-field">
                     <input type="text" name="image" required="">
-
+                    <label>Image</label>
                 </div>
 
                 <div class="input-field">

@@ -66,6 +66,7 @@
             <form action="action.php" method="POST">
                 <div class="input-field">
                     <input type="text" name="image" required="">
+                    <label>Image</label>
                 </div>
 
                 <div class="input-field">
