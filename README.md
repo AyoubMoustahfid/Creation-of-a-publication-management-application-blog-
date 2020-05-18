@@ -41,6 +41,7 @@ Firstable open xampp run server then go to phpmyadmin.
    ![page10](https://user-images.githubusercontent.com/47373251/82209900-9c9e7680-98fd-11ea-8724-e99bc9c1b0a2.png)
    
    
+
    
  
 
